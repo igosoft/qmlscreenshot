@@ -33,4 +33,16 @@ Window {
     Component.onCompleted: {
         timer.start()
     }
+
+
+Rectangle {
+	x: 10
+y:20
+}
+
+Rectangle {
+x:10
+y: 30
+}
+
 }
