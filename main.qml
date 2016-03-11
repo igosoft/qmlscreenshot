@@ -38,11 +38,13 @@ Window {
 Rectangle {
 	x: 10
 y:20
+width: 888
 }
 
 Rectangle {
 x:10
 y: 30
+width:888
 }
 
 }
