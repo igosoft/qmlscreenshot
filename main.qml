@@ -4,7 +4,7 @@ import QtQuick.Window 2.2
 Window {
     visible: true
 
-    opacity: 1
+    opacity: 0.5
 
     Loader {
         id: qmlLoader
