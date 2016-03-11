@@ -33,4 +33,6 @@ Window {
     Component.onCompleted: {
         timer.start()
     }
+
+
 }
